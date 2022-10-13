@@ -1,8 +1,12 @@
+/*
+ *  * File: 5-printf.c
+ *   * Auth: Brennan D Baraban
+ *    */
 #include <stdio.h>
 /**
  *  * main - Prints the size of various types.
  * 
- *    *
+ *    
  *     * Return: Always 0.
  *      */
 int main(void)
