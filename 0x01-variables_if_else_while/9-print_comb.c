@@ -1,6 +1,6 @@
 /*
  * File: 9-print_comb.c
- * Auth: meseret asefa
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -28,9 +28,3 @@ int main(void)
 
 	return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-
