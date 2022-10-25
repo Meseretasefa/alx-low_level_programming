@@ -1,8 +1,10 @@
 /*
  * File: 3-puts.c
- * Auth: meseret asefa	
+ * Auth: meseret asefa
  */
+
 #include "meseret.h"
+
 /**
  * _puts - Prints a string to stdout.
  * @str: The string to be printed.
