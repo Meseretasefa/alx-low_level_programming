@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 
 /**
  * _print_rev_recursion - Prints a string in reverse
@@ -7,11 +7,11 @@
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
-void _print_rev_recursion(char *s)
+void main (char *s)
 {
         if (*s != '\0')
         {
-                _print_rev_recursion(s + 1);
-                _putchar(*s);
+                main(s + 1);
+                putchar(*s);
         }
 }
